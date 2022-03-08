@@ -1,4 +1,4 @@
-# dataglacier
+# Data Glacier
 
 These are projects done throughout my internship at Data Glacier:
 
